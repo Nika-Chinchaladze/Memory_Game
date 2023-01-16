@@ -1,5 +1,7 @@
 # Memory Game
-Used Technologies: HTML / CSS / Bootstrap / Javascript
+<p>Used Technologies: HTML / CSS / Bootstrap / Javascript</p>
+<p><a href="https://nika-chinchaladze.github.io/Memory_Game/">Play Memory Game Online</a></p>
+<p><a href="https://www.youtube.com/watch?v=Htd2on47OgU">See video on my youtube channel</a></p>
 
 # App
 ![pc](https://user-images.githubusercontent.com/106172218/212753068-10c2f18f-f8b3-4ce3-af7c-d3d06003dee8.jpg)
